@@ -1,0 +1,4 @@
+a=[1,2,3,4,11,15]
+print(a)
+print(min(a))
+print(max(a))

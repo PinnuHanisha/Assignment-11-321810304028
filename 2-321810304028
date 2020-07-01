@@ -1,0 +1,6 @@
+list=[1,2,3,4]
+tot=1
+for elem in list:
+    tot*=elem
+print(tot)
+print(list)

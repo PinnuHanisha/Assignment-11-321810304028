@@ -1,0 +1,4 @@
+from random import shuffle
+list=["hii","hello","good","evening"]
+shuffle(list)
+print(list)
